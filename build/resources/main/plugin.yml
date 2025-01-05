@@ -1,0 +1,15 @@
+name: DragonEvent
+version: '1.0'
+main: its.cactusdev.DragonEvent.Main
+author: cactusdev
+api-version: '1.21'
+softdepend:
+  - PlaceholderAPI
+commands:
+  dragon:
+    aliases:
+      - ejderha
+      - dragonevent
+      - enderdragonevent
+      - ejderhaevent
+    description: Main command for Dragonevent

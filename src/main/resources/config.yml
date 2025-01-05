@@ -1,0 +1,11 @@
+Settings:
+  timer: 24 # In minutes
+  world: world_the_end
+  Placeholders:
+    days: d
+    hours: h
+    minutes: m
+    seconds: s
+Dragon:
+  name: "Default Dragon"
+  health: 300.0
